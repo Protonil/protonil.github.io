@@ -1,0 +1,14 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+martharbour.com	TRUE	/	FALSE	1999999999	_landing_page	%2F
+martharbour.com	TRUE	/	FALSE	1999999999	dynamic_checkout_shown_on_cart	1
+martharbour.com	TRUE	/	FALSE	1999999999	_secure_session_id	23b6db975f642fc5052e0497b0386115
+martharbour.com	TRUE	/	FALSE	1999999999	cart_currency	USD
+martharbour.com	TRUE	/	FALSE	1999999999	cart_sig	7c575c64e840dae01ba158bf8cde0b15
+martharbour.com	TRUE	/	FALSE	1999999999	_y	e58e40f0-f24d-4a5b-8314-40e171876591
+martharbour.com	TRUE	/	FALSE	1999999999	_s	4d5d6444-ffe6-456c-a69b-3fdc991267a4
+martharbour.com	TRUE	/	FALSE	1999999999	_shopify_y	e58e40f0-f24d-4a5b-8314-40e171876591
+martharbour.com	TRUE	/	FALSE	1999999999	_shopify_s	4d5d6444-ffe6-456c-a69b-3fdc991267a4
+martharbour.com	TRUE	/	FALSE	1999999999	_shopify_fs	2021-03-23T09%3A52%3A31Z
+martharbour.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
